@@ -1,2 +1,10 @@
-# JMD
-JMD Website 
+# JMD Webiste 
+
+
+## Files 
+
+* Login
+* Signup
+* Marksheet
+* Fees
+* Receipt 
