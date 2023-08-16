@@ -6,5 +6,7 @@
 * Login
 * Signup
 * Marksheet
+* Scheduled
+* Announcement
 * Fees
 * Receipt 
