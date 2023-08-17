@@ -1,0 +1,57 @@
+.Container{
+    margin-top: 125px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
+
+/* .login_Container{
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} */
+
+.title
+{
+    margin-top: 250px;
+    text-align: center;
+}
+
+.Label{
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.Input{
+    width: 100%;
+    padding: 8px; /* Add some padding for better appearance */
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.button{
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.login{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover
+{
+    opacity: 0.8;
+}
