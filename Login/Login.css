@@ -5,15 +5,21 @@
     justify-content: center;
     display: flex;
     border-radius: 5px;
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
 
-/* .login_Container{
-    margin-top: 50px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-} */
+.logo
+{
+    max-height: 250px;
+    max-width: 250px;
+    border-radius: 50%;
+    padding-bottom: 30px;
+}
+
+img.avatar
+{
+    width: 40%;
+    border-radius: 50%;
+}
 
 .title
 {
@@ -43,9 +49,11 @@
     width: 30%;
     box-sizing: border-box;
     position: relative;
+    max-width: 250px;
 }
 
 .login{
+    
     margin-top: 30px;
     display: flex;
     justify-content: center;
@@ -55,3 +63,4 @@
 {
     opacity: 0.8;
 }
+
