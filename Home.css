@@ -1,0 +1,20 @@
+.custom-background{
+  background-color: rgb(243, 247, 248);
+}
+
+.container-background
+{
+  text-size-adjust: 100%;
+  background-color: white;
+}
+
+.annoucements-container
+{
+  overflow-y: auto;
+}
+
+.calendar-container{
+  max-height: 350px; /* Set a maximum height for the containers */
+  width: auto;
+  overflow-y: auto; /* Allow vertical scrolling when content overflows */
+}
