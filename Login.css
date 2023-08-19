@@ -1,0 +1,82 @@
+.Container{
+    margin-top: 0px;
+}
+
+body{
+    align-items: center;
+    margin-top: 8%;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+}
+
+.custom-background{
+    background-color: rgb(243, 247, 248);
+  }
+  
+
+.logo
+{
+    display: block;
+    max-height: 250px;
+    max-width: 250px;
+    border-radius: 50%;
+    padding-bottom: 30px;
+}
+
+.title
+{
+    margin-top: 250px;
+    text-align: center;
+}
+
+.Label{
+    text-align: left;
+    font-size: large;
+}
+
+.Input{
+    width: 100%;
+    padding: 8px; /* Add some padding for better appearance */
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.login{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-info-container{
+    max-width: 35%;
+    margin: auto; /* Center the container */
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.login-info{
+    text-align: center;
+    font-size: medium;
+    word-wrap: break-word;
+}
+
+.button{
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 25px;
+    margin-top: 20px;
+    border: none;
+    cursor: default;
+    width: 100px;
+    max-width: 250px;
+    border-radius: 5%;
+    position: relative;
+    font-size: 15px;
+}
+
+.button:hover
+{
+    opacity: 0.7;
+}
+
