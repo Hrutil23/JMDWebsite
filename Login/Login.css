@@ -4,11 +4,16 @@
 
 body{
     align-items: center;
-    margin-top: 10%;
+    margin-top: 8%;
     flex-direction: column;
     justify-content: center;
     display: flex;
 }
+
+.custom-background{
+    background-color: rgb(243, 247, 248);
+  }
+  
 
 .logo
 {
@@ -18,12 +23,6 @@ body{
     border-radius: 50%;
     padding-bottom: 30px;
 }
-/* 
-img.avatar
-{
-    width: 40%;
-    border-radius: 50%;
-} */
 
 .title
 {
@@ -47,7 +46,19 @@ img.avatar
     margin-top: 30px;
     display: flex;
     justify-content: center;
-    
+}
+
+.login-info-container{
+    max-width: 35%;
+    margin: auto; /* Center the container */
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.login-info{
+    text-align: center;
+    font-size: medium;
+    word-wrap: break-word;
 }
 
 .button{
@@ -68,3 +79,4 @@ img.avatar
 {
     opacity: 0.7;
 }
+
