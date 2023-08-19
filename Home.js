@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     loginButton.addEventListener('click', function() {
         // Navigate to the home.html page
-        window.location.href = 'Index.html';
+        window.location.href = 'index.html';
     });
 });
