@@ -14,7 +14,8 @@
 }
 
 .calendar-container{
-  max-height: 350px; /* Set a maximum height for the containers */
+  /* max-height: 350px; Set a maximum height for the containers */
   width: auto;
   overflow-y: auto; /* Allow vertical scrolling when content overflows */
+  overflow-x: auto;
 }
