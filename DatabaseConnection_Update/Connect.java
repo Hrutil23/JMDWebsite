@@ -21,7 +21,7 @@ import java.net.URL;
 
     public static void main(String[] args) {
 
-        connectToDatabase(connUrl);
+        // connectToDatabase(connUrl);
     }
 
     private static void connectToDatabase(String url)
