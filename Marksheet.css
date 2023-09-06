@@ -1,0 +1,31 @@
+.custom-background{
+    background-color: rgb(243, 247, 248);
+}
+
+.container-background
+{
+    text-size-adjust: 100%;
+    background-color: white;
+}
+
+.marksheet-container
+{
+    overflow-y: auto;
+}
+
+.table{
+    text-align: center;
+}
+
+.table-boardered td{
+    width: 20%;
+}
+
+.name-container{
+    text-align: left;
+}
+
+.fixed-colspan{
+    width: 25%;
+    white-space: normal;
+}
