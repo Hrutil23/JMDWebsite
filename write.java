@@ -11,7 +11,7 @@ public class write {
 
         // Nothing much here
 
-        String text = "Welcome to geekforgeeks\nHappy Learning!";
+        String text = "Welcome to JMD Math class ";
 
         // Defining the file name of the file
         Path fileName = Path.of("/Users/hrutilpatel/Desktop/Jmd webiste /JMD/Write/text.txt"); 
